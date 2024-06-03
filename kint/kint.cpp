@@ -201,8 +201,3 @@ int main() {
 
     return 0;
 }
-
-int APIENTRY WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR lpCmdLine, int nShowCmd)
-{
-    return main();
-}
